@@ -1,0 +1,42 @@
+{
+  "proList": {
+    "brand":["德技精密","有限公司"],
+    "scroll_bar": {
+      "description": "公司簡介",
+      "envir": "廠房環境",
+      "equip": "生產與檢驗設備",
+      "contact": "聯絡德技",
+      "about": "關於德技"
+    },
+    "sub_title": {
+      "main": "秉持著誠摯服務的經營理念，提供高品質產品及高附加價值服務",
+      "main_abo": "致力專研於矽膠射出及各種矽膠成型之領域，嚴守客戶及產品之間的保密關係，在公司高品質技技術管理之下，本公司是您值得信賴選擇。",
+      "main_port": "本廠設有各項完善之機具設備，提供客戶最迅速、最具安全的產品開發、製造服務，讓客戶更安心與滿意。",
+      "main_movie": "本廠設有各項完善機具設備，提供客戶最迅速、最完善的生產品質，讓客戶能安心滿意。"
+    },
+    "contact_info":{
+      "add":"台中市潭子區中山路三段501號",
+      "name": "林先生",
+      "mobile": "+886 968 707 067",
+      "office": "+886 4 2533 2550",
+      "fax": "+886 4 2533 2550",
+      "email": "leon.lin67@msa.hinet.net",
+      "problem": "任何矽膠問題,請加好友瞭解"
+    },
+    "img": {
+      "about":"img/about.jpg",
+      "service_01": "img/fac_photo/fc01.png",
+      "service_02": "img/fac_photo/fc02.png",
+      "service_03": "img/fac_photo/fc03.png",
+      "service_04": "img/fac_photo/fc09.png",
+      "port_01": "img/portfolio/04-small.png",
+      "port_02": "img/portfolio/12-small.png",
+      "port_03": "img/portfolio/14-small.png",
+      "port_04": "img/portfolio/13-small.png",
+      "port_05": "img/portfolio/07-small.png",
+      "port_06": "img/portfolio/09-small.png"
+    }
+
+
+  }
+}
